@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-10-23
-img: blue_cells.png
+img: green_cells bw.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
