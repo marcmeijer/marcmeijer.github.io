@@ -2,11 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: stemcells bw.png
+img: micro bw txt.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Stem Cell Research
-description: Parthenode Stem Cell Research using QPCR, digital PCR and fluorescent probe assay design for genome editing diagnostics
+project-date: 2012
+client: Experimed Bioscience
+category: Lifescience
+description: Trans Blood Brain Barrier Delivery System
+- Utilization of Botulin Toxin complex modified to replace the toxin cargo with new therapeutic or test (GFP) cargo. Targeting and entry subunits of Botulin Toxin complex are left in tact to provide the mechanism for cargo transport.
 
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: IMG_0422 bw.png
+date: 2017-06-18
+img: med bw txt.png
 alt: image-alt
-project-date: April 2014
+project-date: June 2017
 client: Start Bootstrap
-category: Coffee and Tea
-description: Augmented Reality 3-D imaging for the tele-health space
+category: Machine Learning
+description: Parkinson's disease is a degenerative muscular affliction that shows early signs in speach frequency characteristics. Apply machine learning to speach signal characterized metrics to predict presence of Parkinson's disease and degree of affliction. 
 
 ---

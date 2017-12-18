@@ -2,11 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: micro bw.png
+img: stemcell bw txt.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Image Processing
-description: Process optical pattern recognition algorithm development and machine vision inspection automation, imaging and data processing in the final stages of product development and product introduction in a very competitive automation market. 
+project-date: 2013
+client: Bedford Stem Cells
+category: Stem Cell Experimentation
+description: Parthenode Type Stem Cell Library Creation
+-  Creation of parthenode line that contains CCR5 genome deletion using CRISPR technology and insertion of a fluorescent protein at deletion site
 
 ---

@@ -4,9 +4,10 @@ modal-id: 6
 date: 2017-10-23
 img: bike bw.png
 alt: image-alt
-project-date: October 2017
+project-date: November 2017
 client: Start Bootstrap
 category: Web Development
-description: Data Science Cycle
+description: Web Data Mining
+- Accessing Indeed Jop Posting site and serching for all jobs of a certain title and performing NLP Natural language processing on job content to determine the number of times certian skill terms appear and tracking the current "importance" of the skill according to city demand
 
 ---

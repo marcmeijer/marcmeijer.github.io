@@ -2,11 +2,12 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: med bw.png
+img: IMG_0422 bw txt.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Medical Device Development
-description: conceptualize and lead the development of regulatory compliant imaging, medical systems and devices from product requirements, risk management, feasibility studies, development, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing. 
+project-date: April 2016
+client: Proximie Surgical
+category: Tele-Health
+description: 3D Augmented Reality Tele-Surgical Imaging/communication Platform
+- Build and support a development team of cross discipline specialists for effective collaboration research agreements. Created surgical theater complient system platform introducing new technologies including 3D capability, remote laser control, and user interface direction. Mechanical prototyped using 3D printing. 
 
 ---

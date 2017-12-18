@@ -2,11 +2,12 @@
 layout: default
 modal-id: 1
 date: 2017-10-23
-img: green_cells bw.png
+img: conbio bw txt.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2009
+client: Gore Biomedical
 category: CRISPR - Molecular Biology
-description: CRISPR CAS to modify develomental stage proteins to illucidate and compare the mechanisms and signal transduction pathways of mouse vs human parthenote development.
+description: Diagnostic/Therapeutic Stroke Treatment System 
+- design, test and manufacture of regulatory compliant micro-fluidic optical/image based medical instrumentation, delivery devices, and control algorithms from concept, product requirements, risk management, feasibility studies, development, verification and validation to final product launch.
 
 ---
