@@ -1,13 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: stemcell bw txt.png
+date: 2017-07-16
+img: med bw txt.png
 alt: image-alt
-project-date: 2013
-client: Bedford Stem Cells
-category: Stem Cell Experimentation
-description: Parthenode Type Stem Cell Library Creation
--  Creation of parthenode line that contains CCR5 genome deletion using CRISPR technology and insertion of a fluorescent protein at deletion site
+project-date: 2017 - ongoing
+client: Start Bootstrap
+category: Healthcare
+description: Parkinson's Disease Machine learning Diagnosis - Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinson's disease and healthy patients.
 
 ---

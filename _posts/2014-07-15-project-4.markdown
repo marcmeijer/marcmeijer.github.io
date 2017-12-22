@@ -2,12 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: micro bw txt.png
+img: stemcell bw txt.png
 alt: image-alt
-project-date: 2012
-client: Experimed Bioscience
-category: Lifescience
-description: Trans Blood Brain Barrier Delivery System
-- Utilization of Botulin Toxin complex modified to replace the toxin cargo with new therapeutic or test (GFP) cargo. Targeting and entry subunits of Botulin Toxin complex are left in tact to provide the mechanism for cargo transport.
+project-date: April 2014
+client: Start Bootstrap
+category: Stem Cell Research
+description: Stem Cell Research - Parthenode stem cells type AIDS therapeutic library creation CRISPR genome editing to disable CCR5 proteins and insert a fluorescent protein at mutation site to compare the mechanisms and signal transduction pathways of virus in murine and human models.
 
 ---

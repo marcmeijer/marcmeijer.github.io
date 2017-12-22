@@ -4,10 +4,9 @@ modal-id: 1
 date: 2017-10-23
 img: conbio bw txt.png
 alt: image-alt
-project-date: 2009
-client: Gore Biomedical
-category: CRISPR - Molecular Biology
-description: Diagnostic/Therapeutic Stroke Treatment System 
-- design, test and manufacture of regulatory compliant micro-fluidic optical/image based medical instrumentation, delivery devices, and control algorithms from concept, product requirements, risk management, feasibility studies, development, verification and validation to final product launch.
+project-date: 2010
+client: Gore Medical
+category: Medical Devices
+description: Stroke Therapy - Technical lead of large multidisciplinary teams to develop a diagnostic/therapeutic microfluidic optical based regulatory compliant medical system and associated disposable devices for treating stroke & peripheral thrombosis. Development includes determining product requirements, risk management, feasibility studies, systems development and integration, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing.
 
 ---

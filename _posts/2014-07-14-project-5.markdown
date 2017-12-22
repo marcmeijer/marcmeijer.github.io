@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2017-06-18
-img: med bw txt.png
+date: 2014-07-14
+img: IMG_0422 bw txt.png
 alt: image-alt
-project-date: June 2017
+project-date: April 2014
 client: Start Bootstrap
-category: Machine Learning
-description: Parkinson's disease is a degenerative muscular affliction that shows early signs in speach frequency characteristics. Apply machine learning to speach signal characterized metrics to predict presence of Parkinson's disease and degree of affliction. 
+category: TELE-HEALTH
+description: Technical strategic vision for the development of novel Augmented Reality (AR) digital health system platform technologies designed to transform realtime surgical protocols. Build and support a development team of cross discipline specialists for effective collaboration research agreements. Created system platform introducing new technologies including 3D capability, remote laser control, and surgical suite compliment system prototyping using 3D printing. 
 
 ---

@@ -2,12 +2,11 @@
 layout: default
 modal-id: 6
 date: 2017-10-23
-img: bike bw.png
+img: bike bw txt.png
 alt: image-alt
-project-date: November 2017
-client: Start Bootstrap
-category: Web Development
-description: Web Data Mining
-- Accessing Indeed Jop Posting site and serching for all jobs of a certain title and performing NLP Natural language processing on job content to determine the number of times certian skill terms appear and tracking the current "importance" of the skill according to city demand
+project-date: October 2017
+client: Gore Medical
+category: Engineering
+description: High energy fiber optic delivery device coupling.  Development of micro optic subsytem for coupling therapeutic Q-switched laser system with disposble fiberoptic catheter delivery device. 
 
 ---
