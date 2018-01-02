@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2010
 client: Gore Medical
 category: Medical Devices
-description: Stroke Therapy - Technical lead of large multidisciplinary teams to develop a diagnostic/therapeutic microfluidic optical based regulatory compliant medical system and associated disposable devices for treating stroke & peripheral thrombosis. Development includes determining product requirements, risk management, feasibility studies, systems development and integration, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing.
+description: Stroke Therapy - Technical lead of large multidisciplinary teams to develop a diagnostic/therapeutic microfluidic optical based regulatory compliant medical system and associated disposable devices for treating stroke & peripheral thrombosis. Development includes determining product requirements, risk management, feasibility studies, systems development and integration, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing.                                                                 High energy fiber optic delivery device coupling.  Development of micro optic subsytem for coupling therapeutic Q-switched laser system with disposble fiberoptic catheter delivery device.
 
 ---

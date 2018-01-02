@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2017-10-23
-img: bike bw txt.png
+img: IMG_0422 bw txt.png
 alt: image-alt
 project-date: October 2017
-client: Gore Medical
-category: Engineering
-description: High energy fiber optic delivery device coupling.  Development of micro optic subsytem for coupling therapeutic Q-switched laser system with disposble fiberoptic catheter delivery device. 
+client: DATBOS
+category: NLP Skill Data Mining
+description: DATA SCIENCE - Using natural language processing on job postings for "Data Scientist" to record the number of times various data science skill word appear in postings as an indication of skill importance in the Data Science field. https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb
 
 ---
