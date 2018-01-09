@@ -13,7 +13,8 @@ LICENCE		    _includes	   _site		  img		   mail
 The email in the config.ml file is the email where interested party inquiries are sent 
 
 ## _config.yml
-adjust color scheme of theme
+adjust color scheme of theme - some colors are not recognized for some reason and the page is not predictable. A color is recogniazed when the color hex code is yellow in the code.
+
 adjust some of the site settings
 -	title:      is the title of the web page
 -	email:      is the email where interested party inquiries are sent
