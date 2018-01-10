@@ -21,7 +21,9 @@ adjust some of the site settings
 -	url:        is the url of the web page as specified in CNAME and declared in 
 -	keywords:   is the list of words used for CRO optimization
 -	skills:     is the list of skills presented under the title on the opening page
-	
+## IMG 
+file contains the profile.png file which is the image logo on the front page
+Portfolio contains the .png files that are the images for the portfolio topics	
 ## _posts
 adjust the images of the post section
 	image ratio of 5:4 works well for spacing
