@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2017-10-23
+img: IMG_0422 bw.png
+alt: image-alt
+project-date: October 2017
+client: DATBOS
+category: NLP Skill Data Mining
+description: DATA SCIENCE - Using natural language processing on job postings for "Data Scientist" to record the number of times various data science skill word appear in postings as an indication of skill importance in the Data Science field. https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb
+
+---
