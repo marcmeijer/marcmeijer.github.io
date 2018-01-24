@@ -27,6 +27,8 @@ Portfolio contains the .png files that are the images for the portfolio topics
 ## _posts
 adjust the images of the post section
 	image ratio of 5:4 works well for spacing
+Modified the post section of freelancer to accept links for client, info, and service
+Modifired image to include img1 which is the image for the project page different from the portfolio image
 
 ## _includes   
 - about.html - 
