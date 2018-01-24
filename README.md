@@ -35,6 +35,7 @@ adjust the images of the post section
 -- “contact” information location html code generator
 - modals.html - 
 -- “_posts” html code generator with post image transferred
+-- links for post information
 
 
 ## img/portfolio/???????.png 
