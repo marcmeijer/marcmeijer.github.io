@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2017-10-23
 img: conbio bw txt.png
+img1: 
 alt: image-alt
 project-date: DVT
 project-link: "https://en.wikipedia.org/wiki/Deep_vein_thrombosis"
