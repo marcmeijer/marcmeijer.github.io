@@ -6,7 +6,7 @@ img: medicalcart.png
 img2:
 alt: image-alt
 project-date: Augmented Reality Surgery
-project-link:
+project-link: "https://vimeo.com/252947883"
 client: Start Proximie
 client-link: "http://www.proximie.com"
 category: TELE-HEALTH
