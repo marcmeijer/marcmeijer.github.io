@@ -2,11 +2,15 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: stemcell bw txt.png
+img: ccr5 dimer.png
+img1:
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: CRISPR CCR5
+project-link: "https://vimeo.com/213249642"
+client: Start BSCRF
+client-link:
 category: Stem Cell Research
+service-link:
 description: Stem Cell Research - Parthenode stem cells type AIDS therapeutic library creation CRISPR genome editing to disable CCR5 proteins and insert a fluorescent protein at mutation site to compare the mechanisms and signal transduction pathways of virus in murine and human models.
 
 ---
