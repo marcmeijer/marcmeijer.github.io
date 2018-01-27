@@ -2,11 +2,15 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: IMG_0422 bw txt.png
+img: NLP Plot.png
+img1:
 alt: image-alt
-project-date: 2017 - ongoing
-client: Start Bootstrap 
-category: Machine Learning 
+project-date: Data Science Skills
+project-link: "https://github.com/datbos/Data-Science-skills"
+client: Start Bootstrap
+client-link: 
+category: NLP Machine Learning
+service-link: 
 description: Natural Language Processing of "Data Scientist" Skills - Data mining of Data Scientist job postings for machine learning skill terms instance counting. Skill terms ar mined, sorted and plotted according total number of instances skill terms appears in all postings and adjusted for multiple instances in a single post.
 
 ---
