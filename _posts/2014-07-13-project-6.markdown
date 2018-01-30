@@ -2,11 +2,14 @@
 layout: default
 modal-id: 6
 date: 2017-10-23
-img: IMG_0422 bw txt.png
+img: BPL autocor.png
+img1:
 alt: image-alt
-project-date: October 2017
-client: DATBOS
-category: NLP Skill Data Mining
-description: DATA SCIENCE - Using natural language processing on job postings for "Data Scientist" to record the number of times various data science skill word appear in postings as an indication of skill importance in the Data Science field. https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb
-
+project-date: Git Energy Consumption
+project-link: "https://github.com/marcmeijer/BPL/blob/master/BPL%20City%20Hall%20Electricity%20Analysis.ipynb"
+client: Start Bootstrap
+client-link:
+category: Time Series Analysis
+service-link:
+description: DATA SCIENCE - Using time series analysis on the energy consumption of the Boston Public Library (BPL) sampled every 5 minutes. The final result is the prediction of future energy consumption from past consumption trends.
 ---
