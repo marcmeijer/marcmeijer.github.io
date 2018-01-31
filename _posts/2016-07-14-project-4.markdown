@@ -1,30 +1,15 @@
 ---
 layout: default
-modal-id: 5
-<<<<<<< HEAD
+modal-id: 4
 date: 2016-07-14
-=======
-date: 2014-07-14
-<<<<<<< HEAD
->>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
-=======
->>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
 img: medicalcart.png
 img2:
 alt: image-alt
 project-date: Augmented Reality Surgery
-<<<<<<< HEAD
-<<<<<<< HEAD
 project-link: "https://vimeo.com/252947883"
-=======
-project-link:
->>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
-=======
-project-link:
->>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
-client: Start Proximie
+client: Start Proximie Medical
 client-link: "http://www.proximie.com"
-category: TELE-HEALTH
+category: Tele-Health
 service-link: 
 description: Technical strategic vision for the development of novel Augmented Reality (AR) digital health system platform technologies designed to transform realtime surgical protocols. Build and support a development team of cross discipline specialists for effective collaboration research agreements. Created system platform introducing new technologies including 3D capability, remote laser control, and surgical suite compliment system prototyping using 3D printing. 
 

@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2015-07-15
+img: ccr5 dimer.png
+img1:
+alt: image-alt
+project-date: CRISPR CCR5
+project-link: 
+client: Start BSCRF
+client-link:
+category: Stem Cell Research
+service-link: "https://vimeo.com/213249642"
+description: CCR5 is a critical cell surface protein necessary for HIV to enter a cell. The "Berlin patient" was treated with a stem cell therapy including inactive CCR5 and showed complete remission. In an effort to create a therapeutic stem cell CCR5 inactivated library, CRISPR genome editing was used to disable CCR5 and insert a fluorescent protein at mutation site to compare the mechanisms and signal transduction pathways of virus in murine and human models.
+
+---

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2017-10-23
 img: BPL autocor.png
 img1:
@@ -11,5 +11,5 @@ client: Start Bootstrap
 client-link:
 category: Time Series Analysis
 service-link:
-description: DATA SCIENCE - Using time series analysis on the energy consumption of the Boston Public Library (BPL) sampled every 5 minutes. The final result is the prediction of future energy consumption from past consumption trends.
+description: The TSA (Time Series Analysis) ENERGY consumption of the Boston Public Library (BPL) sampled every 5 minutes is analyzed. The final result is the prediction of future energy consumption from past consumption trends and patterns.
 ---

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2010-10-23
+img: gore optics.png
+img1: 
+alt: image-alt
+project-date: DVT
+project-link: "https://github.com/datbos/datbos.github.io/blob/master/Red%20Laser%20feedback%20blood.pdf"
+client: Gore Medical
+client-link: "http://stroke.ahajournals.org/content/32/Suppl_1/319.3"
+category: Medical Devices
+service-link: "https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb"
+description: EPAR (Endovascular Photoacoustic Recanalization) is a diagnostic/therapeutic catheter based regulatory compliant optical based medical system & disposable device for treating stroke & peripheral thrombosis. Development includes determining product requirements, risk management, feasibility studies, systems development and integration, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing. 
+---

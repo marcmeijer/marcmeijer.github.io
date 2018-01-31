@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2017-07-16
+img: Parkinsons Dat.png
+img1:
+alt: image-alt
+project-date: 2017 - ongoing
+project-link: "https://github.com/marcmeijer/Parkinsons/blob/master/Parkinson%20Final.ipynb"
+client: Start Bootstrap
+client-link:
+category: Digital Health
+service-link: "http://www.dailymail.co.uk/health/article-5323269/Michael-J-Fox-pledges-100-000-UK-university-develop-Parkinson-s-app.html"
+description: Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinsons disease and healthy patients.
+
+---
