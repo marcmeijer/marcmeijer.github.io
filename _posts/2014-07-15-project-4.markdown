@@ -5,6 +5,9 @@ modal-id: 4
 date: 2015-07-15
 =======
 date: 2014-07-15
+<<<<<<< HEAD
+>>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
+=======
 >>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
 img: ccr5 dimer.png
 img1:
