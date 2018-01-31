@@ -1,12 +1,20 @@
 ---
 layout: default
 modal-id: 5
+<<<<<<< HEAD
 date: 2016-07-14
+=======
+date: 2014-07-14
+>>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
 img: medicalcart.png
 img2:
 alt: image-alt
 project-date: Augmented Reality Surgery
+<<<<<<< HEAD
 project-link: "https://vimeo.com/252947883"
+=======
+project-link:
+>>>>>>> 7c06144c12ececac614b9b9a56fb096968f5f032
 client: Start Proximie
 client-link: "http://www.proximie.com"
 category: TELE-HEALTH
