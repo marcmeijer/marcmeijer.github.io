@@ -14,6 +14,22 @@ LICENCE		    _includes	   _site		  img		   mail
 
 The email in the config.ml file is the email where interested party inquiries are sent 
 
+Place a image in /img/portfolio/
+Replace your-email@domain.com in _config.yml with your email address. Refer to formspree for more information.
+Create posts to display your projects. Use the follow as an example:
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
+
+---
+
 ### _config.yml
 adjust color scheme of theme
 adjust some of the site settings
