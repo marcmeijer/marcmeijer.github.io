@@ -11,6 +11,6 @@ client: Start BSCRF
 client-link: "http://www.bedfordresearch.org/"
 category: Stem Cell Research
 service-link: "https://en.wikipedia.org/wiki/Berlin_Patient"
-description: CCR5 is a critical cell surface protein necessary for HIV to enter a cell. The "Berlin patient" showed complete remission HIV after he was treated with a bone marrow transplant to treat cancer winch including inactive CCR5 from a doner. In an effort to create a therapeutic stem cell CCR5 inactivated library, CRISPR genome editing was used to disable CCR5 and insert a fluorescent protein at mutation site to compare the mechanisms and signal transduction pathways of virus in murine and human models.
+description: CCR5 is a critical cell surface protein necessary for HIV to enter a cell. The "Berlin patient" showed complete HIV remission after he was treated with a bone marrow transplant to treat cancer winch including inactive CCR5 from a doner. In an effort to create a therapeutic stem cell CCR5 inactivated library, CRISPR genome editing was used to disable CCR5 and insert a fluorescent protein at mutation site to compare the mechanisms and signal transduction pathways of virus in murine and human models.
 
 ---
