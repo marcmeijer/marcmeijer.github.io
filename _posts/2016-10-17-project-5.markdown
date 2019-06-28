@@ -8,9 +8,9 @@ alt: image-alt
 project-date: 3D Augmented Reality
 project-link: "https://github.com/datbos/datbos.github.io/blob/master/SFR%20Sony%20vs%2012Mpixel.pdf"
 client: Proximie Medical
-client-link: 
-category: Tele Health
-service-link: 
+client-link: "http://www.proximie.com"
+category: Tele-Health
+service-link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6067812/?report=reader"
 description: SFR (Spatial Frequency Response) of a camera is a measure of the sharpness "resolution" that a camera-lens system can resolve for a edge black-white transition. Having digital zoom capability allowed for the camera o be integrated with a bioptic 3D configuration with sob millimeter z resolution. To transition the tele health system from an optical zoom to a digital zoom, the quality of the image cannot be compromised according to ISO12233 standards.
 
 ---
