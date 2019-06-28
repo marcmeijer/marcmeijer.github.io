@@ -7,7 +7,7 @@ img1:
 alt: image-alt
 project-date: CRISPR CCR5
 project-link: "https://vimeo.com/213249642"
-client: Start BSCRF
+client: BSCRF
 client-link: "http://www.bedfordresearch.org/"
 category: Stem Cell Research
 service-link: "https://en.wikipedia.org/wiki/Berlin_Patient"
