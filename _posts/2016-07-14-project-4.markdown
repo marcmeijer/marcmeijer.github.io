@@ -7,7 +7,7 @@ img2:
 alt: image-alt
 project-date: Augmented Reality Surgery
 project-link: "https://vimeo.com/252947883"
-client: Start Proximie Medical
+client: Proximie Medical
 client-link: "http://www.proximie.com"
 category: Tele-Health
 service-link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6067812/?report=reader"
