@@ -7,7 +7,7 @@ img1:
 alt: image-alt
 project-date: Data Science Skills
 project-link: "https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb"
-client: Start Bootstrap
+client: Bootstrap
 client-link: 
 category: NLP Machine Learning
 service-link: 
