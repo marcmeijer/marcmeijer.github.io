@@ -5,7 +5,7 @@ date: 2016-10-17
 img: SFR Edge.png
 img1:
 alt: image-alt
-project-date: 3D AR Dev
+project-date: 3D Augmented Reality
 project-link: "https://github.com/datbos/datbos.github.io/blob/master/SFR%20Sony%20vs%2012Mpixel.pdf"
 client: Proximie Medical
 client-link: 
