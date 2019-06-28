@@ -5,11 +5,11 @@ date: 2017-10-23
 img: BPL autocor.png
 img1:
 alt: image-alt
-project-date: Git Energy Consumption
+project-date: Energy Consumption
 project-link: "https://github.com/marcmeijer/BPL/blob/master/BPL%20City%20Hall%20Electricity%20Analysis.ipynb"
-client: Start Bootstrap
+client: Bootstrap
 client-link:
 category: Time Series Analysis
-service-link:
+service-link: "https://data.boston.gov/dataset/central-library-electricity-usage"
 description: The TSA (Time Series Analysis) ENERGY consumption of the Boston Public Library (BPL) sampled every 5 minutes is analyzed. The final result is the prediction of future energy consumption from past consumption trends and patterns.
 ---
