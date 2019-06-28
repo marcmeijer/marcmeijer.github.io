@@ -7,7 +7,7 @@ img1:
 alt: image-alt
 project-date: 2017 - ongoing
 project-link: "https://github.com/marcmeijer/Parkinsons/blob/master/Parkinson%20Final.ipynb"
-client: Start Bootstrap
+client: Bootstrap
 client-link:
 category: Digital Health
 service-link: "http://www.dailymail.co.uk/health/article-5323269/Michael-J-Fox-pledges-100-000-UK-university-develop-Parkinson-s-app.html"
